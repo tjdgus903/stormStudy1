@@ -9,24 +9,24 @@
 <hr>
 <b>RESTful API 기반 Web Application</b>
 
-IntelliJ
-Springboot - 2.1.7
-Gradle - 4.10.2
-JUnit4
-Github
-H2
-lombok
-JPA
-OAuth2.0
-Mustache
-Bootstrap
-AWS EC2 (Amazon Linux AMI 2)
-AWS RDS (MariaDB 10.2.21)
-AWS S3
-Putty
-HeidiSQL
-Travis CI
-Nginx
+<li>IntelliJ</li>
+<li>Springboot - 2.1.7</li>
+<li>Gradle - 4.10.2</li>
+<li>JUnit4</li>
+<li>Github</li>
+<li>H2</li>
+<li>lombok</li>
+<li>JPA</li>
+<li>OAuth2.0</li>
+<li>Mustache</li>
+<li>Bootstrap</li>
+<li>AWS EC2 (Amazon Linux AMI 2)</li>
+<li>AWS RDS (MariaDB 10.2.21)</li>
+<li>AWS S3</li>
+<li>Putty</li>
+<li>HeidiSQL</li>
+<li>Travis CI</li>
+<li>Nginx</li>
 
 
 <h1>✅프로젝트 구성</h1>
@@ -40,7 +40,9 @@ JUnit의 버전에 따라 빌드 도구는 Gradle의 4버전
 심플하고 View의 역할과 서버의 역할을 분리할 수 있는 Mustache 사용
 
 <h1>✅무중단 배포 인프라 구조</h1>
-![127273241-c4e2db5a-e4c1-4ecb-9ba3-42e3bbe35295](https://github.com/tjdgus903/stormStudy1/assets/158554431/ab3a2afb-01d1-4df9-bd0f-52156db85bf2)
+<hr>
+![127273241-c4e2db5a-e4c1-4ecb-9ba3-42e3bbe35295](https://github.com/tjdgus903/stormStudy1/assets/158554431/5302cc1b-367d-4763-b7a8-69ac5e6e9b36)
+
 
 
 <h1>✅API 제작 과정</h1>
