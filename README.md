@@ -8,7 +8,7 @@
 <h1>✅개발 환경</h1>
 <hr>
 <b>RESTful API 기반 Web Application</b>
-
+<br>
 <li>IntelliJ</li>
 <li>Springboot - 2.1.7</li>
 <li>Gradle - 4.10.2</li>
@@ -41,7 +41,7 @@ JUnit의 버전에 따라 빌드 도구는 Gradle의 4버전
 
 <h1>✅무중단 배포 인프라 구조</h1>
 <hr>
-![127273241-c4e2db5a-e4c1-4ecb-9ba3-42e3bbe35295](https://github.com/tjdgus903/stormStudy1/assets/158554431/5302cc1b-367d-4763-b7a8-69ac5e6e9b36)
+![image](https://github.com/tjdgus903/stormStudy1/assets/158554431/5f467ee1-c866-45e4-a1fb-0903df64043a)
 
 
 
