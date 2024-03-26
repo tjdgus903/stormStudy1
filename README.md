@@ -41,7 +41,8 @@ JUnit의 버전에 따라 빌드 도구는 Gradle의 4버전
 
 <h1>✅무중단 배포 인프라 구조</h1>
 <hr>
-![image](https://github.com/tjdgus903/stormStudy1/assets/158554431/5f467ee1-c866-45e4-a1fb-0903df64043a)
+
+![인프라 구조](https://github.com/tjdgus903/stormStudy1/assets/158554431/75f39e0b-65a6-4508-b6d9-81091bc1a5ec)
 
 
 
