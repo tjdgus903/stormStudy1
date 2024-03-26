@@ -8,7 +8,7 @@
 <h1>✅개발 환경</h1>
 <hr>
 <b>RESTful API 기반 Web Application</b>
-<br>
+<br><br>
 <li>IntelliJ</li>
 <li>Springboot - 2.1.7</li>
 <li>Gradle - 4.10.2</li>
@@ -41,14 +41,12 @@ JUnit의 버전에 따라 빌드 도구는 Gradle의 4버전
 
 <h1>✅무중단 배포 인프라 구조</h1>
 <hr>
-
-![인프라 구조](https://github.com/tjdgus903/stormStudy1/assets/158554431/75f39e0b-65a6-4508-b6d9-81091bc1a5ec)
-
+![인프라 구조](https://github.com/tjdgus903/stormStudy1/assets/158554431/88464e90-c23a-499c-aead-117d22fdda4a)
 
 
 <h1>✅API 제작 과정</h1>
 <hr>
-<b>>MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속받은 Repository를 활용</b>
+<b>MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속받은 Repository를 활용</b>
 
 Domain 패키지
 Domain 패키지는 Database와 직접적으로 관련된 클래스들을 다룬다. 예를 들어 Entity와 Repository가 해당된다.
