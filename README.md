@@ -32,7 +32,7 @@
 <h1>✅프로젝트 구성</h1>
 <hr>
 <b>프로젝트 환경 설정</b>
-<br>
+<br><br>
 <ul dir="auto">
 <li>버전 관리를 쉽게하기 위해서 <strong>Spring boot starter</strong> 사용</li>
 <li>아직 많은 기업에서 JUnit4를 사용한다는 점, 교재에 따라 JUnit5대신 <strong>JUnit4</strong> 사용</li>
@@ -51,7 +51,7 @@
 <h1>✅API 제작 과정</h1>
 <hr>
 <b>MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속받은 Repository를 활용</b>
-<br>
+<br><br>
 <ol dir="auto">
 <li>Domain 패키지
 <ul dir="auto">
