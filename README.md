@@ -6,8 +6,8 @@
 
 
 <h1>✅개발 환경</h1>
-
-RESTful API 기반 Web Application
+<hr>
+<b>RESTful API 기반 Web Application</b>
 
 IntelliJ
 Springboot - 2.1.7
@@ -30,7 +30,8 @@ Nginx
 
 
 <h1>✅프로젝트 구성</h1>
-프로젝트 환경 설정
+<hr>
+<b>프로젝트 환경 설정</b>
 버전 관리를 쉽게하기 위해서 Spring boot starter 사용
 아직 많은 기업에서 JUnit4를 사용한다는 점, 교재에 따라 JUnit5대신 JUnit4 사용
 JUnit의 버전에 따라 빌드 도구는 Gradle의 4버전
@@ -43,8 +44,8 @@ JUnit의 버전에 따라 빌드 도구는 Gradle의 4버전
 
 
 <h1>✅API 제작 과정</h1>
-
-MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속받은 Repository를 활용
+<hr>
+<b>>MVC 패턴으로 Dto, Service, Controller 클래스와 JpaRepository를 상속받은 Repository를 활용</b>
 
 Domain 패키지
 Domain 패키지는 Database와 직접적으로 관련된 클래스들을 다룬다. 예를 들어 Entity와 Repository가 해당된다.
